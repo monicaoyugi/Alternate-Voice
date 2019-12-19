@@ -1,6 +1,6 @@
 ## Will write this when done with the site 
 
-Theme Name: BizPage
-Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Theme Name: Alternate Voice
+Theme URL: https://github.com/monicaoyugi/Alternate-Voice
+Author: Monica Oyugi
+Author URL: https://www.linkedin.com/in/monica-oyugi-990b4b90/
