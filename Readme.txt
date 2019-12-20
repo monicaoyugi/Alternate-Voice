@@ -4,3 +4,6 @@ Theme Name: Alternate Voice
 Theme URL: https://github.com/monicaoyugi/Alternate-Voice
 Author: Monica Oyugi
 Author URL: https://www.linkedin.com/in/monica-oyugi-990b4b90/
+
+link to the site 
+https://monicaoyugi.github.io/Alternate-Voice/
